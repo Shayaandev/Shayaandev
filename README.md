@@ -1,4 +1,4 @@
-## Hi, I'm Shayaan 👋
+## Hi, I'm Shayaan 👋 Im gay and proud about it!
 I'm a aspiring software developer and systems enthusiast, passionate about building tools, automating processes and exploring new technologies.
 <!--
 **Shayaandev/Shayaandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
