@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Shayaan 👋
+I'm a aspiring software developer and systems enthusiast, passionate about building tools, automating processes and exploring new technologies.
 <!--
 **Shayaandev/Shayaandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
